@@ -1,0 +1,8 @@
+@media print{
+    body{
+     font-family: serif;
+     font-size: 55px;
+     color: #fff;
+     background-color: #000;
+    }
+}
